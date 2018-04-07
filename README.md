@@ -2,7 +2,7 @@
 
 You can download the latest version of FB4 by clicking a button on this web page. The FB4 software, User Manual, and sample input files are all in the same zipped file. Instructions for getting started are in the User Manual (included in the zip file) and are also summarized below.
 
-We are today (1/7/2017) releasing Version 1.0.3 of the FB4 software. Details for this minor update are explained at the bottom of this page. 
+We are today (1/7/2018) releasing Version 1.0.3 of the FB4 software. Details for this minor update are explained at the bottom of this page. 
 
 FB4 v1.0.2 was released on 12/13/2017
 FB4 v1.0.1 was released on 12/6/2017.
